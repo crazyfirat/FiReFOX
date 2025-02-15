@@ -1,2 +1,1 @@
-# FiReFOX
-FiReFOX
+Firefox,Hüso
